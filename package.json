@@ -1,0 +1,22 @@
+{
+  "name": "koa-jsonfile",
+  "version": "0.1.0",
+  "description": "read/write JSON files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w"
+  },
+  "keywords": [
+    "koa",
+    "json",
+    "file"
+  ],
+  "author": "hanggi",
+  "license": "ISC",
+  "dependencies": {
+    "co-fs": "^1.2.0"
+  },
+  "devDependencies": {}
+}
